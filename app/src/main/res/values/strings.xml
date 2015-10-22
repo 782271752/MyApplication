@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_recyler_view">RecylerViewActivity</string>
+    <string name="title_activity_header_recyler_view">HeaderRecylerViewActivity</string>
+    <string name="title_activity_active_android">ActiveAndroidActivity</string>
+    <string name="title_activity_async_http">AsyncHttpActivity</string>
+</resources>
